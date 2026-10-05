@@ -17,6 +17,9 @@ Sistema para y por la Gestión de la empresa **AirTortilla España** que permite
 
 ---
 
+## Estructura Del CSV
+* id_reserva,origen,destino,pais_destino_iata,nombre_pasajero,fecha_reserva 
+
 ## 🚀 Instalación y Requisitos
 
 * **Python 3.8+**
@@ -26,3 +29,4 @@ Sistema para y por la Gestión de la empresa **AirTortilla España** que permite
 # Clonar el repositorio
 git clone [https://github.com/LucarioTR/airtortilla-reservas.git](https://github.com/LucarioTR/airtortilla-reservas.git)
 cd airtortilla-reservas
+
